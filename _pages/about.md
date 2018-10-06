@@ -1,6 +1,5 @@
 ---
 title: "About"
-layout: default
 permalink: /about/
 header:
   image: "/images/top-banner.jpg"
