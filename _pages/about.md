@@ -1,5 +1,6 @@
 ---
 title: "About"
+layout: default
 permalink: /about/
 header:
   image: "/images/AI-banner-1440x425.jpg"
